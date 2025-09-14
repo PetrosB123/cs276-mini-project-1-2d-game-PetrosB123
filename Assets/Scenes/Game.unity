@@ -231,6 +231,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -590,6 +594,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -710,6 +718,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -813,6 +825,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.97
       objectReference: {fileID: 0}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
@@ -1177,6 +1193,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -1329,6 +1349,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -1454,6 +1478,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -1523,6 +1551,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -1591,6 +1623,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.97
       objectReference: {fileID: 0}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
@@ -1889,6 +1925,10 @@ PrefabInstance:
       value: 37.024
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -1957,6 +1997,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.97
       objectReference: {fileID: 0}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
@@ -2450,6 +2494,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -2653,6 +2701,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -2771,6 +2823,10 @@ PrefabInstance:
       value: -48.97
       objectReference: {fileID: 0}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 
       objectReference: {fileID: 5463257338438634578, guid: a31742102375b4d478cd996bae33da0d, type: 3}
@@ -2849,6 +2905,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
+      propertyPath: Borders
+      value: 
+      objectReference: {fileID: 474171660}
     - target: {fileID: 2761280574256350316, guid: 44c304e35cbb8c041a533f8e3e2c564b, type: 3}
       propertyPath: bounceEffectPrefab
       value: 

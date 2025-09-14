@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Obstacle : MonoBehaviour
 {
+    public GameObject Borders;
     public GameObject bounceEffectPrefab;
     public GameObject Pop;
     float minSpeed = 75f;
@@ -50,6 +51,7 @@ public class Obstacle : MonoBehaviour
             var popPoint = other.ClosestPoint(transform.position);
 
             Destroy(other.gameObject);
+            Borders.SetActive(false);
             var pop = Object.Instantiate(Pop, popPoint, Quaternion.identity);
             Destroy(pop, 0.1f);
         }
