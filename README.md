@@ -1,7 +1,7 @@
 # Fish Farce
 
 ## Play the Game
-**Unity Play Link**: [Your Unity Play URL]
+**Unity Play Link**: https://play.unity.com/en/games/297c0724-98f2-4542-9a7e-327f7ec8f54e/fish-farce
 
 ## Game Overview
 As a fish, it is your job to not get hit by the shells, they will obliterate you. Your goal is to pop bubbles as they rise up on the screen while avoiding the shells. The more bubbles you pop, the higher score you get. Be careful though, the shells can also pop the bubbles.

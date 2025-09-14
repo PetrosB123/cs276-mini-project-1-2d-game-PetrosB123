@@ -37,6 +37,10 @@ public class Obstacle : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.name == "Player")
+        {
+            Borders.SetActive(false);
+        }
         Vector2 contactPoint = collision.GetContact(0).point;
         GameObject bounceEffect = Instantiate(bounceEffectPrefab, contactPoint, Quaternion.identity);
 
@@ -51,7 +55,6 @@ public class Obstacle : MonoBehaviour
             var popPoint = other.ClosestPoint(transform.position);
 
             Destroy(other.gameObject);
-            Borders.SetActive(false);
             var pop = Object.Instantiate(Pop, popPoint, Quaternion.identity);
             Destroy(pop, 0.1f);
         }
